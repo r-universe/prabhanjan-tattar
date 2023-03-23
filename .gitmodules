@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ACSWR"]
+	path = ACSWR
+	url = https://github.com/cran/ACSWR
+	shallow = true
+	registered = true
+[submodule "gpk"]
+	path = gpk
+	url = https://github.com/cran/gpk
+	shallow = true
+	registered = true
+[submodule "RSADBE"]
+	path = RSADBE
+	url = https://github.com/cran/RSADBE
+	shallow = true
+	registered = true
