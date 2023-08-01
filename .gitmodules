@@ -5,9 +5,9 @@
 [submodule "ACSWR"]
 	path = ACSWR
 	url = https://github.com/cran/ACSWR
-[submodule "gpk"]
-	path = gpk
-	url = https://github.com/cran/gpk
 [submodule "RSADBE"]
 	path = RSADBE
 	url = https://github.com/cran/RSADBE
+[submodule "gpk"]
+	path = gpk
+	url = https://github.com/cran/gpk
